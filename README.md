@@ -13,3 +13,7 @@ A variery of methods (Topology Features, Community Features and Node Features) a
 Firstly, topology features will be used to perform a performance benchmark on the predictive capability of the machine learning model. 
 
 Next, research groups detected using community detection (triangle count, label propagtion, louvain modularity), will be used as features to enhance the prediction model.
+
+- Visualisation are done using Netwulf https://netwulf.readthedocs.io
+- Programming languages used involve PySpark, Spark, and Python (NetworkX)
+- Code ran on GCP VM (8-Core)
