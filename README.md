@@ -1,4 +1,4 @@
-# citation_network_analytics [Still a Work-In-Progress]
+# citation_network_analytics 
 Graph Network Analytics (Implementation in Scala, Python)
 
 The dataset is obtained from https://www.aminer.cn/aminernetwork
